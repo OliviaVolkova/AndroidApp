@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKotlinApp</string>
+    <string name="login">Войти</string>
+    <string name="Exit">Выйти</string>
+</resources>
